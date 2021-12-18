@@ -12,6 +12,7 @@
 - 💼 [resume](https://drive.google.com/file/d/1aHdJ-fW59z6ZSo25-epW37TEh1vCrT-J/view?usp=sharing) if you're interested!
 
 #### Some cool stats 
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
