@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wannieman98
-- 👀 I’m interested in Statistics, Computer Science, and especially in the artificial intelligence!
+- 👀 I’m interested in Statistics, Computer Science, and especially in the Machine Learning! 
 - 🌱 I’m currently learning statistical modeling, deep learning models, big data handling with python, and database system via sql!
 - 💞️ I’m looking to collaborate on any interesting statistical modeling or deep learning projects!
 - 📫 How to reach me wannieman98@gmail.com || wanyoo2@illinois.edu
