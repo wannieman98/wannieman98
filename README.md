@@ -1,6 +1,6 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wannieman98.visitor-badge)
 
-- 👋 Hi, I’m Wan Yoo
+👋 Hi everyone, I’m Wan Yoo! 
 - 👀 I’m interested in Statistics, Computer Science, and especially in the Machine Learning! 
 - 🌱 I’m currently learning statistical modeling, deep learning models, big data handling with python, and database system via sql!
 - 💞️ I’m looking to collaborate on any interesting statistical modeling or deep learning projects!
