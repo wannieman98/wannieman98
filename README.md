@@ -1,5 +1,5 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wannieman98.visitor-badge)
-
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=wannieman98.visitor-badge)
+ -->
 ### 👋 Hi everyone, I’m Wan! 
 
 #### TMI's
