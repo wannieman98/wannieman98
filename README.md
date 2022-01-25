@@ -6,7 +6,7 @@
 - 🏫 I am a senior in UIUC studying Statistics and Computer Science!
 - ✌️ I'm currently working on something cool, keep your eye out for it!
 - 👀 I’m interested in Statistics, Computer Science, and especially in the Machine Learning! 
-- 🌱 I’m currently learning about unsupervised model, fundamental theory of machine learning, and artificial intelligence!
+- 🌱 I’m currently learning about unsupervised model, fundamental theory of machine learning, and statistical programming methods!
 - 💞️ I’m always looking to collaborate on any interesting statistical modeling or deep learning projects!
 - 📫 You can reach me via email [wannieman98@gmail.com](wannieman98@gmail.com) || [wanyoo2@illinois.edu](wanyoo2@illinois.edu)
 - 💼 [resume](https://drive.google.com/file/d/1aHdJ-fW59z6ZSo25-epW37TEh1vCrT-J/view?usp=sharing) if you're interested!
