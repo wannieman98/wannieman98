@@ -14,9 +14,11 @@
 #### Some cool stats 
 
 <!--START_SECTION:waka-->
+
 ```text
-Python   4 hrs 4 mins    █████████████████████████   100.00 % 
+Python   3 hrs 37 mins   █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wannieman98&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
