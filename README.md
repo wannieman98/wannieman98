@@ -16,12 +16,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python             7 hrs 8 mins    ██████████████░░░░░░░░░░░   56.07 %
-TypeScript         5 hrs 18 mins   ██████████▒░░░░░░░░░░░░░░   41.66 %
-reStructuredText   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-CSV                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript         8 hrs 48 mins   █████████████▒░░░░░░░░░░░   53.67 %
+Python             7 hrs 18 mins   ███████████░░░░░░░░░░░░░░   44.57 %
+reStructuredText   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+JSON               3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+JavaScript         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
+CSV                2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
