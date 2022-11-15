@@ -3,13 +3,12 @@
 ### 👋 Hi everyone, I’m Wan! 
 
 #### TMI's
-- 🏫 I am a senior in UIUC studying Statistics and Computer Science!
+- 🏫 I am a Software Development Engineer in Amazon.
 - ✌️ I'm currently working on something cool, keep your eye out for it!
-- 👀 I’m interested in Statistics, Computer Science, and especially in the Machine Learning! 
-- 🌱 I’m currently learning about unsupervised model, fundamental theory of machine learning, and statistical programming methods!
-- 💞️ I’m always looking to collaborate on any interesting statistical modeling or deep learning projects!
+- 👀 I’m interested in helping out on Open Source projects.
+- 💞️ I’m always looking to collaborate on any interesting projects!
 - 📫 You can reach me via email [wannieman98@gmail.com](wannieman98@gmail.com) || [wanyoo2@illinois.edu](wanyoo2@illinois.edu)
-- 💼 [resume](https://drive.google.com/file/d/1aHdJ-fW59z6ZSo25-epW37TEh1vCrT-J/view?usp=sharing) if you're interested!
+- 💼 [resume]([https://drive.google.com/file/d/1aHdJ-fW59z6ZSo25-epW37TEh1vCrT-J/view?usp=sharing](https://drive.google.com/file/d/14XRZw7RwPClDybmAT1-Sdx4JLMyhoqAW/view?usp=sharing)) if you're interested!
 
 #### Some cool stats 
 
