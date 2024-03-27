@@ -8,4 +8,3 @@
 - 👀 I’m interested in helping out on Open Source projects.
 - 💞️ I’m always looking to collaborate on any interesting projects!
 - 📫 You can reach me via email [swyoo1126@gmail.com](swyoo1126@gmail.com)
-- 💼 [resume](https://drive.google.com/file/d/1W14_Kt-q93hhBrudzG6L1VcNIb4d9lw5/view?usp=sharing) if you're interested!
