@@ -3,7 +3,7 @@
 ### 👋 Hi everyone, I’m Wan! 
 
 #### TMI's
-- 🏫 I am a Software Development Engineer in Amazon.
+- 🏫 I am a Software Development Engineer in Moloco.
 - ✌️ I'm currently working on something cool, keep your eye out for it!
 - 👀 I’m interested in helping out on Open Source projects.
 - 💞️ I’m always looking to collaborate on any interesting projects!
